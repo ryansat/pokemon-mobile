@@ -1,20 +1,3 @@
-<div align="center">
-  <img src="./.readme-static/logo.png" alt="Plantpedia" width="180">
-</div>
-
-***
-
-<p align="center">Workshop of a small application with a modern and attractive design, based on Pokemon made with react native.</p>
-
-<p align="center">
-  🐞 <a href="https://github.com/DavidBarcenas/nextjs-plantpedia/issues">Report a Bug</a> 
-  🙋‍♂️ <a href="https://github.com/DavidBarcenas/nextjs-plantpedia/issues">Request Feature</a>
-</p>
-
-# Preview
-
-![App screenshot](./.readme-static/app.png)
-
 # Demo
 
 <div align="center">
